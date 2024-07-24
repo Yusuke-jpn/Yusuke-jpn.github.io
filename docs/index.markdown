@@ -10,7 +10,7 @@ title: "ソフトウェア工学　2024"
 
 git/github演習
 
-# gitの機能とコマンド
+## gitの機能とコマンド
 ## 設定
 ローカルリポジトリにてユーザの情報を設定するコマンド
 ### git config --global user.name "[username]"
